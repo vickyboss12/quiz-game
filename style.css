@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+.navbar{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fd6569;
+    padding: 2px;
+
+}
+
+.title{
+    padding-left: 20px;
+    font-family: monospace;
+}
+
+.main-div{
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 160px;
+    padding-bottom: 50px;
+    
+}
+
+
+.box{
+    text-align: center;
+    background: #fd6569;
+    width: 500px;
+    border-radius: 10px;
+    border: none;
+    padding: 50px;
+}
+
+#guessnumber{
+    width: 55%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+
+}
+
+#check-btn{
+    width: 70px;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+
+}
+
+.input-box{
+    padding-bottom: 15px;
+}
+
+#result{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+#score{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
